@@ -15,7 +15,7 @@ public class CadastroGatos {
         for(int i=0;i<5;i++){
             System.out.println("Informe o nome do gato: ");
             nomeGato = ler.next();
-            System.out.println("Informe o idade do gato: ");
+            System.out.println("Informe a cor do gato: ");
             cor = ler.next();
             System.out.println("Informe a ração que consome:");
             racao = ler.next();
